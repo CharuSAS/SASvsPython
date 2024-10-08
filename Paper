@@ -1,0 +1,5 @@
+<b>Access - Identify analysis tables that will be used and  load those tables.</b><br> 
+Explore/Investigate - Inspect tables to determine whether any changes are needed for data items due to data inconsistencies or data quality issues, as well as identify any new data items <br>that need to be calculated. <br>
+Prepare - Correct any data quality issues and create any new calculated items needed for analysis. <br>
+Analyze - Explore  data to identify any patterns, relationships, and trends. <br>
+Report - Develop interactive reports that can be shared via the web or a mobile device.
